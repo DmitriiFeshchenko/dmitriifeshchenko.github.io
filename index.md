@@ -6,6 +6,32 @@ Welcome to the PocketNumbers Studio website!
 
 ## Our Titles
 
+### Business Guru: Rich Simulator
+
+Business Guru: Rich Simulator is more than just a business simulation game. It's an engaging and interactive
+experience that puts you in the driver's seat of your own business empire. Make strategic decisions, take
+calculated risks, and watch your empire flourish.
+
+[<img src="./business-guru/feature_graphic.jpg">](https://play.google.com/store/apps/details?id=com.youxi.business)
+
+For those with a keen interest in the stock market, Business Guru: Rich Simulator allows you to buy virtual shares
+in well-known companies. Monitor your investments closely to maximize your earnings. Additionally, you can venture
+into real estate investments, purchasing properties in prestigious locations to generate passive income and boost
+your net worth. Players can also delve into the exciting world of cryptocurrencies, buying and selling to
+capitalize on market trends.
+
+Overall, Business Guru: Rich Simulator offers a highly immersive and interactive business management experience.
+Whether you aspire to build and manage a store or a bank, become a savvy investor, or indulge in luxury purchases,
+this game has something for everyone. The engaging game play provides endless possibilities for you to build your
+empire and become a true Business Guru.
+
+You can download this game on [Google Play](https://play.google.com/store/apps/details?id=com.youxi.business)
+or [App Store](https://apps.apple.com/us/app/business-guru-rich-simulator/id6523420953) at any time.
+
+Use [this link](./business-guru/privacy.html) to review the privacy policy.
+
+* * *
+
 ### Spades Kingdom
 
 ♠️ Spades is known to be an addictive card game in which players must declare the number of tricks they expect to win in a game. ♠️
